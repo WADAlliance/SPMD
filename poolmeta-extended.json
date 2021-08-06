@@ -1,0 +1,42 @@
+{
+  "info": {
+    "url_png_icon_64x64": "",
+    "url_png_logo": "",
+    "location": "London, UK",
+    "social": {
+      "twitter_handle": "wadalliance",
+      "telegram_handle": "wadalliance",
+      "facebook_handle": "wadallianceorg",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": ""
+    },
+    "company": {
+      "name": "West Africa Decentralized Alliance",
+      "addr": "",
+      "city": "Accra",
+      "country": "Ghana",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": "",
+      "company": ""
+    }
+  },
+  "votes": {
+     "": {
+	"vote": "",
+	"comment": ""
+     }
+  },
+  "my-pool-ids": [
+    "77f64feb102629b2c0d9163fd6822b5ac95bcba5df33a8b5cdbd11e2"
+  ],
+  "when-satured-then-recommend": [
+
+  ],
+  "telegram-admin-handle": [
+    "quantumjf"
+  ]
+}
