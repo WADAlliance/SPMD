@@ -1,8 +1,9 @@
 {
 "name": "West Africa Decentralized Alliance",
-"description": "Unlocking the potential of Africa with Cardano",
+"description": "Unlocking the potential of Africa with Cardano, join us on telegram at https://t.me/wadalliance for the latest news and discussion",
 "ticker": "WADA",
-"homepage": "https://wadalliance.org"
+"homepage": "https://wadalliance.org",
+ "extended": "https://raw.githubusercontent.com/WADAlliance/SPMD/main/poolmeta-extended.json"
 }
 
 
