@@ -4,15 +4,15 @@
     "url_png_logo": "",
     "location": "London, UK",
     "social": {
-      "twitter_handle": "wadalliance",
-      "telegram_handle": "wadalliance",
-      "facebook_handle": "wadallianceorg",
-      "youtube_handle": "",
+      "twitter_handle": "wada_org",
+      "telegram_handle": "wada_org",
+      "facebook_handle": "wadaglobal",
+      "youtube_handle": "wada_org",
       "twitch_handle": "",
-      "discord_handle": ""
+      "discord_handle": "TKwPBKJ52Q"
     },
     "company": {
-      "name": "West Africa Decentralized Alliance",
+      "name": "Wada",
       "addr": "",
       "city": "Accra",
       "country": "Ghana",
@@ -37,6 +37,6 @@
 
   ],
   "telegram-admin-handle": [
-    "quantumjf"
+    "atlaswzri"
   ]
 }
