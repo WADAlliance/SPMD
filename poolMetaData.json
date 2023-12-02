@@ -1,6 +1,6 @@
 {
 "name": "Wada Stakepool",
-"description": "Unlocking the potential of Africa with Cardano! Join us on Telegram at https://t.me/wada_org for the latest news and discussion",
+"description": "Unlocking the potential of Africa with Cardano! Join us on Telegram at https://t.me/wada_org for the latest news and discussion.",
 "ticker": "WADA",
 "homepage": "https://wada.org",
  "extended": "https://raw.githubusercontent.com/WADAlliance/SPMD/main/poolmeta-extended.json"
